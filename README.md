@@ -46,17 +46,10 @@ Welcome to **DockSpace**! This repository is my personal harbor of containerized
 - **Goal:** Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting.  
 - **Key Focus:** AWS networking, Docker containerization, cloud deployment, and security.
 
-**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/harshjindal18/DockerWork/tree/main/Docker1/Exp-11) ☸**  
+**11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/harshjindal18/DockerWork/tree/main/Docker1/Exp-11ML) ☸**  
 - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
 - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.
 
-**12. [Microservices Architecture using Docker Swarm](https://github.com/harshjindal18/DockerWork/tree/main/Docker1/Exp-12)**  
-- **Goal:** Build and deploy a scalable microservices-based application using Docker Swarm.  
-- **Key Focus:** Load balancing, service discovery, and distributed application management.
-
-**13. [Bakery Foundation Example on Windows](https://github.com/harshjindal18/DockerWork/tree/main/Docker1/Exp-13)**  
-- **Goal:** Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9.  
-- **Key Focus:** Image automation, AWS infrastructure provisioning, and hands-on cloud deployment.
 
 ---
 
