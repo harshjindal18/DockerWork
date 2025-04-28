@@ -49,6 +49,9 @@ Welcome to **DockSpace**! This repository is my personal harbor of containerized
 **11. [Microservices Orchestration with Minikube & Kubernetes](https://github.com/harshjindal18/DockerWork/tree/main/Docker1/Exp-11ML) ☸**  
 - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
 - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.
+**12. [Multi page ML Model](https://github.com/harshjindal18/Decipher) ☸**  
+- **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
+
 
 
 ---
