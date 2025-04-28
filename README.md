@@ -50,7 +50,7 @@ Welcome to **DockSpace**! This repository is my personal harbor of containerized
 - **Goal:**A comprehensive web application for training, analyzing, and deploying machine learning models with an intuitive user interface.  
 - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.
 
-- **12. [Multi page ML Model](https://github.com/harshjindal18/Decipher) ☸**  
+**12. [Multi page ML Model](https://github.com/harshjindal18/Decipher) ☸**  
 - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.  
 
 
